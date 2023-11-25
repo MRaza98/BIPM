@@ -33,16 +33,15 @@ This repo contains all the code from the BIPM Course.
 ## Data Science Guideline
 
 1. General information:
-  § Name of the used dataset
-  § List of all participating students (group has max. 3 students)
+   1. Name of the used dataset
+   2. List of all participating students (group has max. 3 students)
 2. Business Understanding
-§ Short description of the business problem that you want to solve (it is ok to use
-your own assumptions)
+   1. Short description of the business problem that you want to solve (it is ok to use your own assumptions)
 3. Data Understanding (Exploratory Data Analysis)
-§ Description of the data set
-§ Data visualization
-§ Analysis of missing data
-4. Data Preparation
+  Description of the data set
+  Data visualization
+  Analysis of missing data
+5. Data Preparation
 How and why did your select the features?
 Did you derive new features?
 How did you deal with missing data?
@@ -52,7 +51,7 @@ How and why did you transform the data?
 • A cross-evaluation or validation set can also be used to optimize the
 parameters (train, validation, test set).
 5. Model Building
-§ Which machine learning models did you use and why?
+Which machine learning models did you use and why?
 § How did you adjust the parameters of your machine learning model and why?
 § What are the resulting machine learning models?
 § A plus is if you build more than one machine learning model
