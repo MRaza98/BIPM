@@ -1,0 +1,15 @@
+﻿Field;Description
+PatientId;patient identification
+AppointmentID;appointment identification. This is the unique identifier of the dataset. Necessary to upload your predictions
+Sex;male or female
+ScheduledDate;scheduled day of hospital visit
+AppointmentDate;day of scheduling the hospital visit
+Age;age of patient
+Community;where the hospital visit takes place
+SocialWelfare;did the patient receive social welfare? (yes/no)
+Hipertension;yes/no
+Diabetes;yes/no
+Alcoholism;yes/no
+Handcap;yes/no
+SMS_received;message send to patient
+No-show;yes/no
