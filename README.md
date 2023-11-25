@@ -49,8 +49,10 @@ This repo contains all the code from the BIPM Course.
    5. How did you split the data?
      A split into test and training data is required.
      A cross-evaluation or validation set can also be used to optimize the parameters (train, validation, test set).
-6. Model Building
+5. Model Building
    1. Which machine learning models did you use and why?
    2. How did you adjust the parameters of your machine learning model and why?
    3. What are the resulting machine learning models?
    4. A plus is if you build more than one machine learning model
+   5. You should add an understandable description of the types of machine learning models you used
+6. Model Evaluation
