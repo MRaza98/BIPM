@@ -56,3 +56,12 @@ This repo contains all the code from the BIPM Course.
    4. A plus is if you build more than one machine learning model
    5. You should add an understandable description of the types of machine learning models you used
 6. Model Evaluation
+   1. Evaluation of the selected models: How will your models perform in practice?
+   2. Did you compare different models? If yes, which one is better? For what metric?
+   3. If you have a classification task, try to find a model and parameters with high accuracy in the test set. Are both errors (false positive and false negative) equally important? How could you adjust for different costs of the errors?
+   4. Try to find a model and parameters with a high accuracy in the test set.
+   5. Description of the approach chosen to optimize the parameters
+   6. Discuss evaluation results (e.g., are false positive and false negative errors equally important? How could you balance the different costs of the errors)?
+7. Possible Business Use
+   1. How would your model help the business? How is it solving the business problem?
+   2. What is the meaning of your model and your solution from a business perspective?
