@@ -38,20 +38,19 @@ This repo contains all the code from the BIPM Course.
 2. Business Understanding
    1. Short description of the business problem that you want to solve (it is ok to use your own assumptions)
 3. Data Understanding (Exploratory Data Analysis)
-  Description of the data set
-  Data visualization
-  Analysis of missing data
-5. Data Preparation
-How and why did your select the features?
-Did you derive new features?
-How did you deal with missing data?
-How and why did you transform the data?
-- How did you split the data?
-• A split into test and training data is required.
-• A cross-evaluation or validation set can also be used to optimize the
-parameters (train, validation, test set).
-5. Model Building
-Which machine learning models did you use and why?
-§ How did you adjust the parameters of your machine learning model and why?
-§ What are the resulting machine learning models?
-§ A plus is if you build more than one machine learning model
+   1. Description of the data set
+   2. Data visualization
+   3. Analysis of missing data
+4. Data Preparation
+   1. How and why did you select the features?
+   2. Did you derive new features?
+   3. How did you deal with missing data?
+   4. How and why did you transform the data?
+   5. How did you split the data?
+     A split into test and training data is required.
+     A cross-evaluation or validation set can also be used to optimize the parameters (train, validation, test set).
+6. Model Building
+   1. Which machine learning models did you use and why?
+   2. How did you adjust the parameters of your machine learning model and why?
+   3. What are the resulting machine learning models?
+   4. A plus is if you build more than one machine learning model
