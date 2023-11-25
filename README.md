@@ -13,8 +13,8 @@ This repo contains all the code from the BIPM Course.
 ## Data Science Checklist:
 
 - [x] 1. Defining the problem and goal
-- [x] 2. Understanding the data
-- [x] 2.1 Dataset Description
+  - [x] 2. Understanding the data
+  - [x] 2.1 Dataset Description
 - [x] 2.2 Quick Analysis from Kaggle
 - [x] 3. Data Quality Check
 - [x] 4. Exploratory Data Analysis
