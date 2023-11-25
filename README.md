@@ -43,11 +43,11 @@ your own assumptions)
 § Data visualization
 § Analysis of missing data
 4. Data Preparation
-§ How and why did your select the features?
-§ Did you derive new features?
-§ How did you deal with missing data?
-§ How and why did you transform the data?
-§ How did you split the data?
+How and why did your select the features?
+Did you derive new features?
+How did you deal with missing data?
+How and why did you transform the data?
+- How did you split the data?
 • A split into test and training data is required.
 • A cross-evaluation or validation set can also be used to optimize the
 parameters (train, validation, test set).
