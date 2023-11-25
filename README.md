@@ -7,3 +7,5 @@ This repo contains all the code from the BIPM Course.
 1. Install Pyton and Jupyter Extensions
 2. Create .ipynb file
 
+## Data Science Links:
+- Kaggle: https://www.kaggle.com/competitions/navigating-hospital-visits/leaderboard
