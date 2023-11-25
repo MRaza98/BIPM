@@ -29,6 +29,7 @@ This repo contains all the code from the BIPM Course.
 - [ ] 9. Model Evaluation
 - [ ] 10. Model Interpretation
 - [ ] 11. Fine-Tuning and Optimization
+- [ ] 12. Recommendations to the Hospital
 
 ## Data Science Guideline
 
