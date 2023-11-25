@@ -9,3 +9,7 @@ This repo contains all the code from the BIPM Course.
 
 ## Data Science Links:
 - Kaggle: https://www.kaggle.com/competitions/navigating-hospital-visits/leaderboard
+
+## Data Science Checklist:
+
+- [x] eerfe
