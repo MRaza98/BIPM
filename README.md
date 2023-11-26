@@ -31,11 +31,11 @@ This repo contains all the code from the BIPM Course.
 - [ ] 11. Fine-Tuning and Optimization
 - [ ] 12. Recommendations to the Hospital
 
-## Data Science Guideline
+## Data Science Guideline:
 
 1. General information:
    1. Name of the used dataset
-   2. List of all participating students (group has max. 3 students)
+   2. List of all participating students (the group has max. 3 students)
 2. Business Understanding
    1. Short description of the business problem that you want to solve (it is ok to use your own assumptions)
 3. Data Understanding (Exploratory Data Analysis)
