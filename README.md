@@ -2,7 +2,7 @@
 
 This repo contains all the code from the BIPM Course.
 
-## How did I get set up with Jupyter and Python within VSCode?
+## How did I get set up with Jupyter and Python in VS Code?
 
 1. Install Python and Jupyter Extensions
 2. Create .ipynb file
