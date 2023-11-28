@@ -16,20 +16,20 @@ This repo contains all the code from the BIPM Course.
 - [x] 2. Understanding the data
   - [x] 2.1 Dataset Description
   - [x] 2.2 Quick Analysis from Kaggle
-- [ ] 3. Data Quality Check
-- [ ] 4. Exploratory Data Analysis
+- [ ] 3. Data Quality Check (04.12.2023)
+- [ ] 4. Exploratory Data Analysis (04.12.2023)
   - [ ] 4.1 Target Variable Distribution 
   - [ ] 4.2 Relationships between variables
-- [ ] 5. Data Cleaning and Preprocessing
+- [ ] 5. Data Cleaning and Preprocessing (08.12.2023)
   - [ ] 5.1 Updating Existing Features
   - [ ] 5.2 Adding new features
-- [ ] 6. Train-Test Split
-- [ ] 7. Model Selection
-- [ ] 8. Model Training
-- [ ] 9. Model Evaluation
-- [ ] 10. Model Interpretation
-- [ ] 11. Fine-Tuning and Optimization
-- [ ] 12. Recommendations to the Hospital
+- [ ] 6. Train-Test Split (10.12.2023)
+- [ ] 7. Model Selection (10.12.2023)
+- [ ] 8. Model Training (10.12.2023)
+- [ ] 9. Model Evaluation (13.12.2023)
+- [ ] 10. Model Interpretation (13.12.2023)
+- [ ] 11. Fine-Tuning and Optimization (17.12.2023)
+- [ ] 12. Recommendations to the Hospital (17.12.2023)
 
 ## Data Science Guideline:
 
