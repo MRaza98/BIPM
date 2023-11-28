@@ -73,12 +73,12 @@ This repo contains all the code from the BIPM Course.
 
 ## Data Warehousing Checklist:
 
-- [ ] 1. Defining business requirements
-- [ ] 2. Defining information packages
-- [ ] 3. ME/R diagram
-- [ ] 4. Extract and Load (Hop or Raza is trying to find a new tool)
+- [ ] 1. Defining business requirements  (01.12.2023)
+- [ ] 2. Defining information packages (01.12.2023)
+- [ ] 3. ME/R diagram (03.12.2023)
+- [ ] 4. Extract and Load (Hop or Raza is trying to find a new tool) (06.12.2023)
 - [ ] 5. Transformation (dim/fact table) with dbt (or Apache Hop)
-- [ ] 6. Visualising data with Tableau
+- [ ] 6. Visualizing data with Tableau
 - [ ] 7. Process Mining
 - [ ] 8. Business recommendations
 - [ ] 9. Record Presentation
