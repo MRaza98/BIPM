@@ -10,6 +10,9 @@ This repo contains all the code from the BIPM Course.
 ## Data Science Links:
 - Kaggle: https://www.kaggle.com/competitions/navigating-hospital-visits/leaderboard
 
+## Data Warehousing Links: 
+- Business Requirements: https://docs.google.com/document/d/1xfpO8y0kQnO2KIg29_S9erxgKK3JonOGPll6Ckuvv_g/edit
+
 ## Data Science Checklist:
 
 - [x] 1. Defining the problem and goal
@@ -66,3 +69,18 @@ This repo contains all the code from the BIPM Course.
 7. Possible Business Use
    1. How would your model help the business? How is it solving the business problem?
    2. What is the meaning of your model and your solution from a business perspective?
+   3. 
+
+## Data Warehousing Checklist:
+
+- [ ] 1. Defining business requirements
+- [ ] 2. Defining information packages
+- [ ] 3. ME/R diagram
+- [ ] 4. Extract and Load (Hop or Raza is trying to find a new tool)
+- [ ] 5. Transformation (dim/fact table) with dbt (or Apache Hop)
+- [ ] 6. Visualising data with Tableau
+- [ ] 7. Process Mining
+- [ ] 8. Business recommendations
+- [ ] 9. Record Presentation
+
+
