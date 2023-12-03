@@ -82,7 +82,7 @@ https://docs.google.com/document/d/1YPMIcR879QKKX8Oswc_06ctGOr0-Nrnt/edit
 - [ ] 5. Transformation (dim/fact table) with dbt (or Apache Hop)
 - [ ] 6. Visualizing data with Tableau
 - [ ] 7. Process Mining
-- [ ] 8. Business recommendations
+- [ ] 8. Business Recommendations
 - [ ] 9. Record Presentation
 
 ## Data Warehousing Guideline:
