@@ -75,8 +75,8 @@ https://docs.google.com/document/d/1YPMIcR879QKKX8Oswc_06ctGOr0-Nrnt/edit
 
 ## Data Warehousing Checklist:
 
-- [ ] 1. Defining business requirements  (01.12.2023)
-- [ ] 2. Defining information packages (01.12.2023)
+- [x] 1. Defining business requirements  (01.12.2023)
+- [x] 2. Defining information packages (01.12.2023)
 - [ ] 3. ME/R diagram (03.12.2023)
 - [ ] 4. Extract and Load (Hop or Raza is trying to find a new tool) (06.12.2023)
 - [ ] 5. Transformation (dim/fact table) with dbt (or Apache Hop)
@@ -88,7 +88,7 @@ https://docs.google.com/document/d/1YPMIcR879QKKX8Oswc_06ctGOr0-Nrnt/edit
 ## Data Warehousing Guideline:
 
 1. Analysis of the business requirements of the data mart, including identifying important KPIs
-for the data mart
+for the data mart.
 2. Analysis of the relevant data source(s) (i.e., tables in the operational database), including an
 analysis of the data quality (data profiling).
 3. Multi-dimensional design of the data mart (conceptual design)
