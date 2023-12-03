@@ -83,4 +83,29 @@ This repo contains all the code from the BIPM Course.
 - [ ] 8. Business recommendations
 - [ ] 9. Record Presentation
 
+## Data Warehousing Guideline:
 
+1. Analysis of the business requirements of the data mart, including identifying important KPIs
+for the data mart
+2. Analysis of the relevant data source(s) (i.e., tables in the operational database), including an
+analysis of the data quality (data profiling).
+3. Multi-dimensional design of the data mart (conceptual design)
+4. Proof-of-concept implementation of the multi-dimensional design with data warehousing
+technologies of your choice
+Parts of the Implementation:
+a. Logical/physical multi-dimensional implementation
+b. ETL / Data Integration
+c. Dashboard for your data mart that visualizes the KPIs for the business process
+d. Critical reflection of the used data warehousing technologies
+• You can use the technologies that we used in the course or try out other technologies for
+visualizations / dashboarding (e.g., Tableau, Microsoft Power BI, Qlik, Python-based
+Dashboards like Plotly Dash, Redash, Metabase, Apache Superset, Google Data
+Studio), for backend / data warehouse (e.g. PostgreSQL, ClickHouse, DuckDB, Microsoft
+SQL Server, Oracle, IBM, MicroStrategy, Snowflake), for ETL / Data Integration /
+Orchestration (e.g., Apache Hop, dbt, airbyte, Python Pandas, Apache Airflow, Prefect,
+Talend, MicrosoftSQL Server Integration Services), or for Data Quality / Data Profiling
+(e.g., Talend Open Data Quality, pandas_profiling, Great Expectations, SQL Server
+Integration Services, Informatica Data Profiler)
+5. Process Mining based on the event logs of the operational databases (with a tool of your
+choice, e.g., Disco or ProM)
+6. Business recommendations for the management and project reflection
