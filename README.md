@@ -12,7 +12,7 @@ This repo contains all the code from the BIPM Course.
 
 ## Data Warehousing Links: 
 - Business Requirements: https://docs.google.com/document/d/1xfpO8y0kQnO2KIg29_S9erxgKK3JonOGPll6Ckuvv_g/edit
-- Information Package Template:
+- Information Package:
 https://docs.google.com/document/d/1YPMIcR879QKKX8Oswc_06ctGOr0-Nrnt/edit
 
 ## Data Science Checklist:
