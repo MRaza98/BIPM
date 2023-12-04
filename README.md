@@ -78,12 +78,13 @@ https://docs.google.com/document/d/1YPMIcR879QKKX8Oswc_06ctGOr0-Nrnt/edit
 - [x] 1. Defining business requirements  (01.12.2023)
 - [x] 2. Defining information packages (01.12.2023)
 - [ ] 3. ME/R diagram (03.12.2023)
-- [ ] 4. Extract and Load (Hop or Raza is trying to find a new tool) (06.12.2023)
-- [ ] 5. Transformation (dim/fact table) with dbt (or Apache Hop)
-- [ ] 6. Visualizing data with Tableau
-- [ ] 7. Process Mining
-- [ ] 8. Business Recommendations
-- [ ] 9. Record Presentation
+- [ ] 4. Data Quality and Profiling
+- [ ] 5. Extract and Load (Hop or Raza is trying to find a new tool) (06.12.2023)
+- [ ] 6. Transformation (dim/fact table) with dbt (or Apache Hop)
+- [ ] 7. Visualizing data with Tableau
+- [ ] 8. Process Mining
+- [ ] 9. Business Recommendations
+- [ ] 10. Record Presentation
 
 ## Data Warehousing Guideline:
 
@@ -91,23 +92,13 @@ https://docs.google.com/document/d/1YPMIcR879QKKX8Oswc_06ctGOr0-Nrnt/edit
 for the data mart.
 2. Analysis of the relevant data source(s) (i.e., tables in the operational database), including an
 analysis of the data quality (data profiling).
-3. Multi-dimensional design of the data mart (conceptual design)
-4. Proof-of-concept implementation of the multi-dimensional design with data warehousing
-technologies of your choice
-Parts of the Implementation:
+3. Multi-dimensional design of the data mart (conceptual design) (DbVisualizer).
+4. Proof-of-concept implementation of the multi-dimensional design with data warehousing technologies of your choice
+- Parts of the Implementation:
 a. Logical/physical multi-dimensional implementation
 b. ETL / Data Integration
 c. Dashboard for your data mart that visualizes the KPIs for the business process
 d. Critical reflection of the used data warehousing technologies
-• You can use the technologies that we used in the course or try out other technologies for
-visualizations / dashboarding (e.g., Tableau, Microsoft Power BI, Qlik, Python-based
-Dashboards like Plotly Dash, Redash, Metabase, Apache Superset, Google Data
-Studio), for backend / data warehouse (e.g. PostgreSQL, ClickHouse, DuckDB, Microsoft
-SQL Server, Oracle, IBM, MicroStrategy, Snowflake), for ETL / Data Integration /
-Orchestration (e.g., Apache Hop, dbt, airbyte, Python Pandas, Apache Airflow, Prefect,
-Talend, MicrosoftSQL Server Integration Services), or for Data Quality / Data Profiling
-(e.g., Talend Open Data Quality, pandas_profiling, Great Expectations, SQL Server
-Integration Services, Informatica Data Profiler)
 5. Process Mining based on the event logs of the operational databases (with a tool of your
 choice, e.g., Disco or ProM)
 6. Business recommendations for the management and project reflection
