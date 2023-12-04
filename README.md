@@ -71,7 +71,6 @@ https://docs.google.com/document/d/1YPMIcR879QKKX8Oswc_06ctGOr0-Nrnt/edit
 7. Possible Business Use
    1. How would your model help the business? How is it solving the business problem?
    2. What is the meaning of your model and your solution from a business perspective?
-   3. 
 
 ## Data Warehousing Checklist:
 
@@ -94,11 +93,10 @@ for the data mart.
 analysis of the data quality (data profiling).
 3. Multi-dimensional design of the data mart (conceptual design) (DbVisualizer).
 4. Proof-of-concept implementation of the multi-dimensional design with data warehousing technologies of your choice
-- Parts of the Implementation:
-  a. Logical/physical multi-dimensional implementation
-  b. ETL / Data Integration
-  c. Dashboard for your data mart that visualizes the KPIs for the business process
-  d. Critical reflection of the used data warehousing technologies
+- Logical/physical multi-dimensional implementation
+- ETL / Data Integration
+- Dashboard for your data mart that visualizes the KPIs for the business process
+- Critical reflection of the used data warehousing technologies
 5. Process Mining based on the event logs of the operational databases (with a tool of your
 choice, e.g., Disco or ProM)
 6. Business recommendations for the management and project reflection
