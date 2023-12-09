@@ -31,8 +31,8 @@ This repo contains all the code from the BIPM Course.
 - [ ] 6. Train-Test Split (10.12.2023)
 - [ ] 7. Model Selection (10.12.2023)
 - [ ] 8. Model Training (10.12.2023)
-- [ ] 9. Model Evaluation (13.12.2023)
-- [ ] 10. Model Interpretation (13.12.2023)
+- [ ] 9. Model Evaluation (11.12.2023)
+- [ ] 10. Model Interpretation (11.12.2023)
 - [ ] 11. Fine-Tuning and Optimization (17.12.2023)
 - [ ] 12. Recommendations to the Hospital (17.12.2023)
 
@@ -79,7 +79,7 @@ This repo contains all the code from the BIPM Course.
 - [x] 3. ME/R diagram (03.12.2023)
 - [ ] 4. Data Quality and Profiling
 - [x] 5. Extract and Load (Airbyte) (06.12.2023)
-- [ ] 6. Transformation (dim/fact table) with dbt
+- [ ] 6. Transformation (dim/fact table) with dbt (10.12.2023)
   - [ ] 6.1 Slowly Changing Dimensions (Retailers)
 - [ ] 7. Visualizing data with Tableau
 - [ ] 8. Process Mining
