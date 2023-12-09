@@ -80,6 +80,7 @@ This repo contains all the code from the BIPM Course.
 - [ ] 4. Data Quality and Profiling
 - [x] 5. Extract and Load (Airbyte) (06.12.2023)
 - [ ] 6. Transformation (dim/fact table) with dbt
+  - [ ] 6.1 Slowly Changing Dimensions (Retailers)
 - [ ] 7. Visualizing data with Tableau
 - [ ] 8. Process Mining
 - [ ] 9. Business Recommendations
