@@ -35,6 +35,10 @@ This repo contains all the code from the BIPM Course.
     - [ ] Time between appointments
 - [ ] 6. Train-Test Split (10.12.2023)
 - [ ] 7. Model Selection (10.12.2023)
+  - [ ] Logistic Regression
+  - [ ] Decision Tree
+  - [ ] Random Forest
+  - [ ] XGBoost
 - [ ] 8. Model Training (10.12.2023)
 - [ ] 9. Model Evaluation (11.12.2023)
 - [ ] 10. Model Interpretation (11.12.2023)
