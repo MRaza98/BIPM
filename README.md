@@ -28,7 +28,11 @@ This repo contains all the code from the BIPM Course.
   - [ ] 4.2 Relationships between variables
 - [ ] 5. Data Cleaning and Preprocessing (08.12.2023)
   - [ ] 5.1 Updating Existing Features
+    - [ ] Change Data Types
+    - [ ] Handle Missing Data
+    - [ ] OneHotEncode categorical to numerical (?)
   - [ ] 5.2 Adding new features
+    - [ ] Time between appointments
 - [ ] 6. Train-Test Split (10.12.2023)
 - [ ] 7. Model Selection (10.12.2023)
 - [ ] 8. Model Training (10.12.2023)
