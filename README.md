@@ -34,6 +34,7 @@ This repo contains all the code from the BIPM Course.
   - [ ] 5.2 Adding new features
     - [ ] Time between appointments
 - [ ] 6. Train-Test Split (10.12.2023)
+  - [ ] Playing around with parameters 
 - [ ] 7. Model Selection (10.12.2023)
   - [ ] Logistic Regression
   - [ ] Decision Tree
