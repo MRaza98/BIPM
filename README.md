@@ -9,6 +9,7 @@ This repo contains all the code from the BIPM Course.
 
 ## Data Science Links:
 - Kaggle: https://www.kaggle.com/competitions/navigating-hospital-visits/leaderboard
+- Questions: https://docs.google.com/document/d/1NQ1W-ytOdl0QWisfK2ylfNxa6TvpJuLaaYxgGCu_UCE/edit?usp=sharing
 
 ## Data Warehousing Links: 
 - Business Requirements: https://docs.google.com/document/d/1xfpO8y0kQnO2KIg29_S9erxgKK3JonOGPll6Ckuvv_g/edit
