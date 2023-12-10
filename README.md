@@ -42,7 +42,7 @@ This repo contains all the code from the BIPM Course.
 - [ ] 8. Model Training (10.12.2023)
 - [ ] 9. Model Evaluation (11.12.2023)
 - [ ] 10. Model Interpretation (11.12.2023)
-    - [ ] Playing around with parameters 
+    - [ ] Playing around with test size parameters 
 - [ ] 11. Fine-Tuning and Optimization (17.12.2023)
 - [ ] 12. Recommendations to the Hospital (17.12.2023)
 
