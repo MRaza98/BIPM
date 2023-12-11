@@ -34,17 +34,16 @@ This repo contains all the code from the BIPM Course.
   - [ ] 5.2 Adding new features
     - [x] Time between appointments
 - [x] 6. Train-Test Split (10.12.2023)
-- [ ] 7. Model Selection (10.12.2023)
+- [ ] 7. Model Building (10.12.2023)
   - [ ] Logistic Regression
   - [ ] Decision Tree
   - [ ] Random Forest
   - [ ] XGBoost
-- [ ] 8. Model Training (10.12.2023)
-- [ ] 9. Model Evaluation (11.12.2023)
-- [ ] 10. Model Interpretation (11.12.2023)
+- [ ] 10. Model Evaluation (11.12.2023)
+- [ ] 11. Model Interpretation (11.12.2023)
     - [ ] Playing around with test size parameters 
-- [ ] 11. Fine-Tuning and Optimization (17.12.2023)
-- [ ] 12. Recommendations to the Hospital (17.12.2023)
+- [ ] 12. Fine-Tuning and Optimization (17.12.2023)
+- [ ] 13. Recommendations to the Hospital (17.12.2023)
 
 ## Data Science Guideline:
 
