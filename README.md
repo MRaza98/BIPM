@@ -30,10 +30,10 @@ This repo contains all the code from the BIPM Course.
   - [ ] 5.1 Updating Existing Features
     - [ ] Change Data Types
     - [ ] Handle Missing Data
-    - [ ] OneHotEncode categorical to numerical (?)
+    - [x] OneHotEncode categorical to numerical (?)
   - [ ] 5.2 Adding new features
-    - [ ] Time between appointments
-- [ ] 6. Train-Test Split (10.12.2023)
+    - [x] Time between appointments
+- [x] 6. Train-Test Split (10.12.2023)
 - [ ] 7. Model Selection (10.12.2023)
   - [ ] Logistic Regression
   - [ ] Decision Tree
@@ -89,8 +89,10 @@ This repo contains all the code from the BIPM Course.
 - [x] 3. ME/R diagram (03.12.2023)
 - [ ] 4. Data Quality and Profiling
 - [x] 5. Extract and Load (Airbyte) (06.12.2023)
-- [ ] 6. Transformation (dim/fact table) with dbt (10.12.2023)
+- [ ] 6. Transformation (dim/fact table) with dbt (12.12.2023)
   - [ ] 6.1 Slowly Changing Dimensions (Retailers + Materials)
+  - [ ] 6.2 Fact Table
+  - [ ] 6.3 Cube
 - [ ] 7. Visualizing data with Tableau
 - [ ] 8. Process Mining
 - [ ] 9. Business Recommendations
