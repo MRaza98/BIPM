@@ -23,9 +23,9 @@ This repo contains all the code from the BIPM Course.
   - [x] 2.1 Dataset Description
   - [x] 2.2 Quick Analysis from Kaggle
 - [x] 3. Data Quality Check (04.12.2023)
-- [ ] 4. Exploratory Data Analysis (04.12.2023)
+- [x] 4. Exploratory Data Analysis (04.12.2023)
   - [x] 4.1 Target Variable Distribution 
-  - [ ] 4.2 Relationships between variables
+  - [x] 4.2 Relationships between variables (done in 5)
 - [ ] 5. Data Cleaning and Preprocessing (08.12.2023)
   - [ ] 5.1 Updating Existing Features
     - [ ] Change Data Types
