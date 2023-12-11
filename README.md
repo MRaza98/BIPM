@@ -39,11 +39,11 @@ This repo contains all the code from the BIPM Course.
   - [ ] Decision Tree
   - [ ] Random Forest
   - [ ] XGBoost
-- [ ] 10. Model Evaluation (11.12.2023)
-- [ ] 11. Model Interpretation (11.12.2023)
+- [ ] 8. Model Evaluation (11.12.2023)
+- [ ] 9. Model Interpretation (11.12.2023)
     - [ ] Playing around with test size parameters 
-- [ ] 12. Fine-Tuning and Optimization (17.12.2023)
-- [ ] 13. Recommendations to the Hospital (17.12.2023)
+- [ ] 10. Fine-Tuning and Optimization (17.12.2023)
+- [ ] 11. Recommendations to the Hospital (17.12.2023)
 
 ## Data Science Guideline:
 
