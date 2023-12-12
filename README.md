@@ -28,15 +28,15 @@ This repo contains all the code from the BIPM Course.
   - [x] 4.2 Relationships between variables (done in 5)
 - [ ] 5. Data Cleaning and Preprocessing (08.12.2023)
   - [ ] 5.1 Updating Existing Features
-    - [ ] Change Data Types
+    - [x] Change Data Types
     - [ ] Handle Missing Data
     - [x] OneHotEncode categorical to numerical (?)
-  - [ ] 5.2 Adding new features
+  - [x] 5.2 Adding new features
     - [x] Time between appointments
 - [x] 6. Train-Test Split (10.12.2023)
 - [ ] 7. Model Building (10.12.2023)
   - [ ] Logistic Regression
-  - [ ] Decision Tree
+  - [x] Decision Tree
   - [ ] Random Forest
   - [ ] XGBoost
 - [ ] 8. Model Evaluation (11.12.2023)
