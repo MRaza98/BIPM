@@ -112,3 +112,11 @@ analysis of the data quality (data profiling).
 - Critical reflection of the used data warehousing technologies
 5. Process Mining based on the event logs of the operational databases (with a tool of your choice, e.g., Disco or ProM).
 6. Business recommendations for the management and project reflection.
+
+## Data Science Exam:
+1. Metrics for evaluating models (incl. confusion matrix). (Might be good to have a non-programmatic calculator).
+2. Overfitting vs Underfitting (generalization and what it actually means).
+  2.1 How to counter overfitting?
+3. Fundamental understanding of how decision trees are built and implied (as XGboost and other parameters are also dependent on it).
+4. _We will not have to write code but might have to interpret._
+5. 
