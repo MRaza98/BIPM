@@ -32,6 +32,7 @@ This repo contains all the code from the BIPM Course.
     - [x] Change Data Types
     - [ ] Handle Missing Data
     - [x] OneHotEncode categorical to numerical (?)
+    - [ ] Permutation Feature Importance
   - [x] 5.2 Adding new features
     - [x] Time between appointments
 - [x] 6. Train-Test Split (10.12.2023)
