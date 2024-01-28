@@ -30,9 +30,9 @@ This repo contains all the code from the BIPM Course.
 - [ ] 5. Data Cleaning and Preprocessing (08.12.2023)
   - [ ] 5.1 Updating Existing Features
     - [x] Change Data Types
-    - [ ] Handle Missing Data
+    - [ ] Handle Missing Data (Imputer)
     - [x] OneHotEncode categorical to numerical (?)
-    - [ ] Permutation Feature Importance
+    - [ ] Fearure Importance incl. Permutation Feature Importance
   - [x] 5.2 Adding new features
     - [x] Time between appointments
 - [x] 6. Train-Test Split (10.12.2023)
