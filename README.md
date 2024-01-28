@@ -88,12 +88,13 @@ This repo contains all the code from the BIPM Course.
 - [x] 1. Defining business requirements  (01.12.2023)
 - [x] 2. Defining information packages (01.12.2023)
 - [x] 3. ME/R diagram (03.12.2023)
-- [ ] 4. Data Quality and Profiling
+- [x] 4. Data Quality and Profiling
+  - [x] 4.1 Referntial Integrity 
 - [x] 5. Extract and Load (Airbyte) (06.12.2023)
 - [ ] 6. Transformation (dim/fact table) with dbt (12.12.2023)
   - [ ] 6.1 Slowly Changing Dimensions (Retailers + Materials)
-  - [ ] 6.2 Fact Table
-  - [ ] 6.3 Cube
+  - [x] 6.2 Star Schema (Data Mart)
+  - [x] 6.3 External
 - [ ] 7. Visualizing data with Tableau
 - [ ] 8. Process Mining
 - [ ] 9. Business Recommendations
