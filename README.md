@@ -44,6 +44,7 @@ This repo contains all the code from the BIPM Course.
 - [ ] 9. Model Interpretation (11.12.2023)
     - [ ] Playing around with test size parameters 
 - [ ] 10. Fine-Tuning and Optimization (17.12.2023)
+  - [ ] GridSearch
 - [ ] 11. Recommendations to the Hospital (17.12.2023)
 
 ## Data Science Guideline:
