@@ -28,17 +28,17 @@ This repo contains all the code from the BIPM Course.
   - [x] 4.1 Target Variable Distribution 
   - [x] 4.2 Relationships between variables (done in 5)
 - [x] 5. Data Cleaning and Basic Preprocessing
-- [ ] 6. Train-Test Split
+- [x] 6. Train-Test Split
 - [ ] 7. Advanced Preprocessing
     - [x] Change Data Types
-    - [ ] Handle Missing Data (Imputer)
+    - [x] Handle Missing Data (Imputer)
     - [x] OneHotEncode categorical to numerical (?)
     - [ ] Feature Importance incl. Permutation Feature Importance
 - [ ] 8. Model Building
   - [x] Decision Tree
   - [ ] Random Forest
   - [ ] XGBoost
-  - [ ] Confusion Matrix
+  - [x] Confusion Matrix
 - [ ] 9. Model Evaluation
   - [ ] Test.csv Preprocessing
   - [ ] Evaluation against Model
