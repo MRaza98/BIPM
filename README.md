@@ -27,25 +27,26 @@ This repo contains all the code from the BIPM Course.
 - [x] 4. Exploratory Data Analysis
   - [x] 4.1 Target Variable Distribution 
   - [x] 4.2 Relationships between variables (done in 5)
-- [x] 5. Train-Test Split
-- [ ] 6. Data Cleaning and Preprocessing (Train and Test both)
-  - [ ] 6.1 Updating Existing Features
+- [x] 5. Data Cleaning and Basic Preprocessing
+- [ ] 6. Train-Test Split
+- [ ] 7. Data Cleaning and Preprocessing (Train and Test both)
+  - [ ] 7.1 Updating Existing Features
     - [x] Change Data Types
     - [ ] Handle Missing Data (Imputer)
     - [x] OneHotEncode categorical to numerical (?)
     - [ ] Feature Importance incl. Permutation Feature Importance
-  - [x] 6.2 Adding new features
+  - [x] 7.2 Adding new features
     - [x] Time between appointments
-- [ ] 7. Model Building
+- [ ] 8. Model Building
   - [x] Decision Tree
   - [ ] Random Forest
   - [ ] XGBoost
-- [ ] 8. Model Evaluation
-- [ ] 9. Model Interpretation
+- [ ] 9. Model Evaluation
+- [ ] 10. Model Interpretation
     - [ ] Playing around with test size parameters 
-- [ ] 10. Fine-Tuning and Optimization
+- [ ] 11. Fine-Tuning and Optimization
   - [ ] GridSearch
-- [ ] 11. Recommendations to the Hospital
+- [ ] 12. Recommendations to the Hospital
 
 ## Data Science Guideline:
 
