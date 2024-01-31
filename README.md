@@ -30,7 +30,6 @@ This repo contains all the code from the BIPM Course.
 - [x] 5. Data Cleaning and Basic Preprocessing
 - [x] 6. Train-Test Split
 - [ ] 7. Advanced Preprocessing
-    - [x] Change Data Types
     - [x] Handle Missing Data (Imputer)
     - [x] OneHotEncode categorical to numerical (?)
     - [ ] Feature Importance incl. Permutation Feature Importance
