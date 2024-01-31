@@ -29,19 +29,18 @@ This repo contains all the code from the BIPM Course.
   - [x] 4.2 Relationships between variables (done in 5)
 - [x] 5. Data Cleaning and Basic Preprocessing
 - [ ] 6. Train-Test Split
-- [ ] 7. Data Cleaning and Preprocessing (Train and Test both)
-  - [ ] 7.1 Updating Existing Features
+- [ ] 7. Advanced Preprocessing
     - [x] Change Data Types
     - [ ] Handle Missing Data (Imputer)
     - [x] OneHotEncode categorical to numerical (?)
     - [ ] Feature Importance incl. Permutation Feature Importance
-  - [x] 7.2 Adding new features
-    - [x] Time between appointments
 - [ ] 8. Model Building
   - [x] Decision Tree
   - [ ] Random Forest
   - [ ] XGBoost
 - [ ] 9. Model Evaluation
+  - [ ] Test.csv Preprocessing
+  - [ ] Evaluation against Model
 - [ ] 10. Model Interpretation
     - [ ] Playing around with test size parameters 
 - [ ] 11. Fine-Tuning and Optimization
@@ -54,7 +53,7 @@ This repo contains all the code from the BIPM Course.
    1. Name of the used dataset
    2. List of all participating students (the group has max. 3 students)
 2. Business Understanding
-   1. Short description of the business problem that you want to solve (it is ok to use your own assumptions)
+   1. Short description of the business problem that you want to solve (it is ok to use your assumptions)
 3. Data Understanding (Exploratory Data Analysis)
    1. Description of the data set
    2. Data visualization
