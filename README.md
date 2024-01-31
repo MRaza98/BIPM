@@ -38,6 +38,7 @@ This repo contains all the code from the BIPM Course.
   - [x] Decision Tree
   - [ ] Random Forest
   - [ ] XGBoost
+  - [ ] Confusion Matrix
 - [ ] 9. Model Evaluation
   - [ ] Test.csv Preprocessing
   - [ ] Evaluation against Model
