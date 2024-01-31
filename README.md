@@ -36,16 +36,16 @@ This repo contains all the code from the BIPM Course.
 - [ ] 8. Model Building
   - [x] Decision Tree
   - [ ] Random Forest
-  - [ ] XGBoost
+  - [ ] XGBoost (needs to be fixed)
+  - [ ] Voting Classifier
   - [x] Confusion Matrix
-- [ ] 9. Model Evaluation
-  - [ ] Test.csv Preprocessing
+- [ ] 9. Model Evaluation and Interpretation
+  - [x] Test.csv Preprocessing
   - [ ] Evaluation against Model
-- [ ] 10. Model Interpretation
-    - [ ] Playing around with test size parameters 
-- [ ] 11. Fine-Tuning and Optimization
+- [ ] 10. Fine-Tuning and Optimization
   - [ ] GridSearch
-- [ ] 12. Recommendations to the Hospital
+  - [ ] Playing around with test size parameters 
+- [ ] 11. Recommendations to the Hospital
 
 ## Data Science Guideline:
 
