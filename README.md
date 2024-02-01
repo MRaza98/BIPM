@@ -35,13 +35,13 @@ This repo contains all the code from the BIPM Course.
     - [ ] Feature Importance incl. Permutation Feature Importance
 - [ ] 8. Model Building
   - [x] Decision Tree
-  - [ ] Random Forest
-  - [ ] XGBoost (needs to be fixed)
-  - [ ] Voting Classifier
+  - [x] Random Forest
+  - [x] XGBoost
+  - [x] Voting Classifier
   - [x] Confusion Matrix
 - [ ] 9. Model Evaluation and Interpretation
   - [x] Test.csv Preprocessing
-  - [ ] Evaluation against Model
+  - [x] Evaluation against Test
 - [ ] 10. Fine-Tuning and Optimization
   - [ ] GridSearch
   - [ ] Playing around with test size parameters 
