@@ -100,6 +100,7 @@ This repo contains all the code from the BIPM Course.
 - [ ] 9. Process Mining
 - [ ] 10. Business Recommendations
 - [ ] 11. Record Presentation
+- [ ] 12. Create Report
 
 ## Data Warehousing Guideline:
 
