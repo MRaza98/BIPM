@@ -23,29 +23,29 @@ This repo contains all the code from the BIPM Course.
 - [x] 2. Understanding the data
   - [x] 2.1 Dataset Description
   - [x] 2.2 Quick Analysis from Kaggle
-- [x] 3. Data Quality Check (04.12.2023)
-- [x] 4. Exploratory Data Analysis (04.12.2023)
+- [x] 3. Data Quality Check
+- [x] 4. Exploratory Data Analysis
   - [x] 4.1 Target Variable Distribution 
   - [x] 4.2 Relationships between variables (done in 5)
-- [ ] 5. Data Cleaning and Preprocessing (08.12.2023)
-  - [ ] 5.1 Updating Existing Features
-    - [x] Change Data Types
-    - [ ] Handle Missing Data (Imputer)
+- [x] 5. Data Cleaning and Basic Preprocessing
+- [x] 6. Train-Test Split
+- [ ] 7. Advanced Preprocessing
+    - [x] Handle Missing Data (Imputer)
     - [x] OneHotEncode categorical to numerical (?)
-    - [ ] Fearure Importance incl. Permutation Feature Importance
-  - [x] 5.2 Adding new features
-    - [x] Time between appointments
-- [x] 6. Train-Test Split (10.12.2023)
-- [ ] 7. Model Building (10.12.2023)
+    - [ ] Feature Importance incl. Permutation Feature Importance
+- [ ] 8. Model Building
   - [x] Decision Tree
   - [ ] Random Forest
-  - [ ] XGBoost
-- [ ] 8. Model Evaluation (11.12.2023)
-- [ ] 9. Model Interpretation (11.12.2023)
-    - [ ] Playing around with test size parameters 
-- [ ] 10. Fine-Tuning and Optimization (17.12.2023)
+  - [ ] XGBoost (needs to be fixed)
+  - [ ] Voting Classifier
+  - [x] Confusion Matrix
+- [ ] 9. Model Evaluation and Interpretation
+  - [x] Test.csv Preprocessing
+  - [ ] Evaluation against Model
+- [ ] 10. Fine-Tuning and Optimization
   - [ ] GridSearch
-- [ ] 11. Recommendations to the Hospital (17.12.2023)
+  - [ ] Playing around with test size parameters 
+- [ ] 11. Recommendations to the Hospital
 
 ## Data Science Guideline:
 
@@ -53,7 +53,7 @@ This repo contains all the code from the BIPM Course.
    1. Name of the used dataset
    2. List of all participating students (the group has max. 3 students)
 2. Business Understanding
-   1. Short description of the business problem that you want to solve (it is ok to use your own assumptions)
+   1. Short description of the business problem that you want to solve (it is ok to use your assumptions)
 3. Data Understanding (Exploratory Data Analysis)
    1. Description of the data set
    2. Data visualization
@@ -100,6 +100,7 @@ This repo contains all the code from the BIPM Course.
 - [ ] 9. Process Mining
 - [ ] 10. Business Recommendations
 - [ ] 11. Record Presentation
+- [ ] 12. Create Report
 
 ## Data Warehousing Guideline:
 
