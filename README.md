@@ -19,6 +19,11 @@ This repo contains all the code from the BIPM Course.
 
 ## Data Science Checklist:
 
+Next Steps 02/02:
+1. Weights
+2. Columns (Feature Importance) / Permutation Feature Importance
+3. Hyper parameter tuning (random search)
+
 - [x] 1. Defining the problem and goal
 - [x] 2. Understanding the data
   - [x] 2.1 Dataset Description
