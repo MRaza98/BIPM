@@ -22,7 +22,12 @@ This repo contains all the code from the BIPM Course.
 Next Steps 02/02:
 1. Weights
 2. Columns (Feature Importance) / Permutation Feature Importance
-3. Hyper parameter tuning (random search)
+3. Hyper-parameter tuning (random search)
+
+Best performing model: svc with weights 2,2,1 to xgb, lgr, and rf with features: ["Age", "time_bw_schedule_appointment"], ['SocialWelfare', 'Sex', 'Alcoholism', 'Hipertension', "Community"]
+
+Next Steps 03/02:
+1. Check without SocialWelfare
 
 - [x] 1. Defining the problem and goal
 - [x] 2. Understanding the data
