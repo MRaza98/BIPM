@@ -105,7 +105,7 @@ Next Steps 03/02:
   - [ ] 6.1 Slowly Changing Dimensions (Retailers + Materials)
   - [x] 6.2 Star Schema (Data Mart)
   - [ ] 6.3 External (remaining: shipping times)
-- [ ] 7. Import additional data and do the analysis
+- [ ] 7. Import additional data and do the analysis (?)
 - [ ] 8. Visualizing data with Tableau: (remaining: shipping times + currencies)
 - [ ] 9. Process Mining
 - [ ] 10. Business Recommendations
