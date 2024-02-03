@@ -19,6 +19,16 @@ This repo contains all the code from the BIPM Course.
 
 ## Data Science Checklist:
 
+Next Steps 02/02:
+1. Weights
+2. Columns (Feature Importance) / Permutation Feature Importance
+3. Hyper-parameter tuning (random search)
+
+Best performing model: svc with weights 2,2,1 to xgb, lgr, and rf with features: ["Age", "time_bw_schedule_appointment"], ['SocialWelfare', 'Sex', 'Alcoholism', 'Hipertension', "Community"]
+
+Next Steps 03/02:
+1. Check without SocialWelfare
+
 - [x] 1. Defining the problem and goal
 - [x] 2. Understanding the data
   - [x] 2.1 Dataset Description
@@ -35,13 +45,13 @@ This repo contains all the code from the BIPM Course.
     - [ ] Feature Importance incl. Permutation Feature Importance
 - [ ] 8. Model Building
   - [x] Decision Tree
-  - [ ] Random Forest
-  - [ ] XGBoost (needs to be fixed)
-  - [ ] Voting Classifier
+  - [x] Random Forest
+  - [x] XGBoost
+  - [x] Voting Classifier
   - [x] Confusion Matrix
 - [ ] 9. Model Evaluation and Interpretation
   - [x] Test.csv Preprocessing
-  - [ ] Evaluation against Model
+  - [x] Evaluation against Test
 - [ ] 10. Fine-Tuning and Optimization
   - [ ] GridSearch
   - [ ] Playing around with test size parameters 
