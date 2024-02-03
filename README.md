@@ -101,11 +101,11 @@ Next Steps 03/02:
 - [x] 4. Data Quality and Profiling
   - [x] 4.1 Referntial Integrity 
 - [x] 5. Extract and Load (Airbyte) (06.12.2023)
-- [ ] 6. Transformation (dim/fact table) with dbt (12.12.2023)
+- [x] 6. Transformation (dim/fact table) with dbt (12.12.2023)
   - [x] 6.1 Slowly Changing Dimensions (Retailers + Materials)
   - [x] 6.2 Star Schema (Data Mart)
-  - [ ] 6.3 External (remaining: shipping times)
-- [ ] 7. Visualizing data with Tableau: (remaining: shipping times + currencies)
+  - [x] 6.3 External (remaining: shipping times)
+- [x] 7. Visualizing data with Tableau: (remaining: shipping times + currencies)
 - [ ] 8. Process Mining
 - [ ] 9. Business Recommendations
 - [ ] 10. Record Presentation
