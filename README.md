@@ -20,15 +20,16 @@ This repo contains all the code from the BIPM Course.
 ## Data Science Checklist:
 
 Next Steps 07/02:
-1. Documentation of why we used the models with a description of each model (section 8)
-2. Documentation of how we did the hyperparameter optimization.
-3. How did we balance under and over fitting?
-4. How did you compare the different models? -> We can talk about the soft voting classifier and the weights and the evaluation metrics.
-5. Are both false positives and false negatives equally important? How could you
+1. Fix the models.
+2. Documentation of why we used the models with a description of each model (section 8)
+3. Documentation of how we did the hyperparameter optimization.
+4. How did we balance under and over fitting?
+5. How did you compare the different models? -> We can talk about the soft voting classifier and the weights and the evaluation metrics.
+6. Are both false positives and false negatives equally important? How could you
 adjust for different costs of the errors?
-6. What is the importance of the different features?
-7. Would more data be helpful?
-8. How would your model help the business? How is it solving the business
+7. What is the importance of the different features?
+8. Would more data be helpful?
+9. How would your model help the business? How is it solving the business
 problem?
 
 Next Steps 02/02:
