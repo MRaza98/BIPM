@@ -19,15 +19,24 @@ This repo contains all the code from the BIPM Course.
 
 ## Data Science Checklist:
 
+Next Steps 07/02:
+1. Documentation of why we used the models with a description of each model (section 8)
+2. Documentation of how we did the hyperparameter optimization.
+3. How did we balance under and over fitting?
+4. How did you compare the different models? -> We can talk about the soft voting classifier and the weights and the evaluation metrics.
+5. Are both false positives and false negatives equally important? How could you
+adjust for different costs of the errors?
+6. What is the importance of the different features?
+7. Would more data be helpful?
+8. How would your model help the business? How is it solving the business
+problem?
+
 Next Steps 02/02:
 1. Weights
 2. Columns (Feature Importance) / Permutation Feature Importance
 3. Hyper-parameter tuning (random search)
 
 Best performing model: svc with weights 2,2,1 to xgb, lgr, and rf with features: ["Age", "time_bw_schedule_appointment"], ['SocialWelfare', 'Sex', 'Alcoholism', 'Hipertension', "Community"]
-
-Next Steps 03/02:
-1. Check without SocialWelfare
 
 - [x] 1. Defining the problem and goal
 - [x] 2. Understanding the data
