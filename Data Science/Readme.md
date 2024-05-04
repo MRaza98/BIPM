@@ -2,12 +2,6 @@
 - Kaggle: https://www.kaggle.com/competitions/navigating-hospital-visits/leaderboard
 - Questions: https://docs.google.com/document/d/1NQ1W-ytOdl0QWisfK2ylfNxa6TvpJuLaaYxgGCu_UCE/edit?usp=sharing
 
-## Data Warehousing Links: 
-- Business Requirements: https://docs.google.com/document/d/1xfpO8y0kQnO2KIg29_S9erxgKK3JonOGPll6Ckuvv_g/edit
-- Information Package: https://docs.google.com/document/d/1YPMIcR879QKKX8Oswc_06ctGOr0-Nrnt/edit
-- ME/R Diagram: https://docs.google.com/presentation/d/1qOdhP995Zp7jnxUochd5-qkKedskjazzTdLIEBN41Fg/edit?usp=sharing
-- dbt Project Structure: https://docs.google.com/document/d/1unSWr1jOlLBnb8edzfTtiNXR3IYtcOa68ULvRWtUUTU/edit?usp=sharing
-
 ## Data Science Checklist:
 
 Next Steps 07/02:
