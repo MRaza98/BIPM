@@ -2,11 +2,6 @@
 
 This repo contains all the code from the BIPM Course.
 
-## How did I get set up with Jupyter and Python in VS Code?
-
-1. Install Python and Jupyter Extensions
-2. Create .ipynb file
-
 ## Data Science Links:
 - Kaggle: https://www.kaggle.com/competitions/navigating-hospital-visits/leaderboard
 - Questions: https://docs.google.com/document/d/1NQ1W-ytOdl0QWisfK2ylfNxa6TvpJuLaaYxgGCu_UCE/edit?usp=sharing
