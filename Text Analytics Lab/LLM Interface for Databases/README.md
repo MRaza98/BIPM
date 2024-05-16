@@ -5,8 +5,6 @@
 - This can lead to incorrect answers and misinformation.
 - One way of preventing this is to use a form of fine-tuning: Retrieval Augmented Generation (RAG).
 - In this project, we want to experiment with a different approach using data from a relational database to improve the results of LLMs.
-## Generation which is based on a vector database
-- In this project, we want to experiment with a different approach using data from a relational database to improve the results of LLMs.
 ## Research Question
 - How can we use a SQL database to generate prompts that improve the accuracy of large language models?
 ## Initial Ideas
