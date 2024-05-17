@@ -11,3 +11,7 @@
 - Create a system that generates SQL queries based on user input, e.g., "Give me an overview about the use of sentiment mining for marketing analytics in the last 5 years (in the top IS-journals)".
 - Create prompts with additional information from SQL queries. Try different prompting strategies to improve results. Try to incorporate the use of entities from the IS Ontology.
 - Develop and evaluate different use cases, e.g., comparison/clustering of results retrieved from a sql query.
+
+## Links
+
+- Working Doc: https://docs.google.com/document/d/1-__HsbIZfcrxMvwQNxvDJ6HzcqE2c5RzOBDUY11ZeZs/edit?usp=sharing
