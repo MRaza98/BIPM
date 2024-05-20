@@ -5,13 +5,13 @@ FROM python:3.10-slim-buster
 WORKDIR /app
 
 # Copy requirements.txt into the container at /app
-COPY app/requirements.txt requirements.txt
+COPY Enterprise Architectures/SpaceApp/app/requirements.txt requirements.txt
 
 # Install any needed packages specified in requirements.txt
 RUN pip install -r requirements.txt
 
 # Copy the current directory contents into the container at /app
-COPY app/ /app
+COPY /app .
 
 # Make port 8501 available to the world outside this container
 EXPOSE 8501
