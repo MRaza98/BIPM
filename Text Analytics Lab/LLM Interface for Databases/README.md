@@ -18,4 +18,6 @@
 
 ## Sebastian: 
 
-- Make a detailed evaluation plan.
+- Make a detailed evaluation plan:
+- Split into quantitative and qualitative questions.
+- Quantitative: how many papers have surveys in them?
